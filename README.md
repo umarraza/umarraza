@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Umar Nazir</h1>
 <h3 align="center">Senior Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg">
-
 - 🔭 I’m currently working on [Sportwyse](https://app.sportwyse.com/)
 - 👨‍💻 Check out my projects at [https://umarraza.com](https://umarraza.com)
 - 💬 Ask me about **PHP, Laravel, Vue**
